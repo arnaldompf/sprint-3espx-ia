@@ -123,8 +123,8 @@ O arquivo técnico está organizado de forma estrita para reprodutibilidade no a
 
 ## 8. Integrantes Do Grupo
 
-**Arnaldo Filho** - RM: 555780
-**Carlos Menezes** - RM 99849
-**Vinicius Gardim** - RM 556013
-**Fabricio Carlos** - RM 555017
-**Leonardo Moura** - RM 550413
+- **Arnaldo Filho** - RM: 555780
+- **Carlos Menezes** - RM 99849
+- **Vinicius Gardim** - RM 556013
+- **Fabricio Carlos** - RM 555017
+- **Leonardo Moura** - RM 550413
