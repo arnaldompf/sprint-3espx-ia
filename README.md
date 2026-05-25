@@ -120,3 +120,11 @@ O arquivo técnico está organizado de forma estrita para reprodutibilidade no a
 6. `Análise Agrupada de Médias e Rotulação de Negócio`
 7. `Treinamento do Classificador Supervisionado Random Forest`
 8. `Geração do Classification Report e Matriz de Confusão com Seaborn`
+
+## 8. Integrantes Do Grupo
+
+**Arnaldo Filho** - RM: 555780
+**Carlos Menezes** - RM 99849
+**Vinicius Gardim** - RM 556013
+**Fabricio Carlos** - RM 555017
+**Leonardo Moura** - RM 550413
